@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #858796;
   --gray-dark: #5a5c69;
-  --primary: #4e73df;
+  --primary: #086788;
   --secondary: #858796;
   --success: #1cc88a;
   --info: #36b9cc;
@@ -2357,8 +2357,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #4e73df;
-  border-color: #4e73df;
+  background-color: #086788;
+  border-color: #086788;
 }
 
 .btn-primary:hover {
@@ -10861,19 +10861,19 @@ a:focus {
 }
 
 .bg-login-image {
-  background: url("https://source.unsplash.com/K4mSJ7kc0As/600x800");
+  background: url("/img/loginImage.png");
   background-position: center;
   background-size: cover;
 }
 
 .bg-register-image {
-  background: url("https://source.unsplash.com/Mv9hjnEUHR4/600x800");
+  background: url("/img/registerImage.png");
   background-position: center;
   background-size: cover;
 }
 
 .bg-password-image {
-  background: url("https://source.unsplash.com/oWTW-jNGl9I/600x800");
+  background: url("/img/pswImage.png");
   background-position: center;
   background-size: cover;
 }
